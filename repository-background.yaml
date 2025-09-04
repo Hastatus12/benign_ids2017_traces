@@ -15,6 +15,6 @@ traces:
     sha256: 5733500642fd2ed97679f24daca6dde693da031b0e699314442573a605b7e087
     binary_date: 1718867450
     trace_name: ids2017_benign1_web
-    trace_uri: benign_pcaps/outlook-background.pcap
+    trace_uri: benign_pcaps/ids2017_benign_monday_00000_20170703135558.pcap
     first_packet_ts: 1718874586.282093
     last_packet_ts: 1718874649.760171
