@@ -5,42 +5,62 @@ creation_date: "2017"
 version: 1.0
 traces:
   - description: Benign traffic data from the CIC-IDS2017 dataset. Monday trace 1
+    trace_name: ids2017_benign1_web_1
     trace_uri: benign_pcaps/ids2017_benign_monday_00000_20170703135558.pcap
   - description: Benign traffic data from the CIC-IDS2017 dataset. Monday trace 2
+    trace_name: ids2017_benign_monday_00001
     trace_uri: benign_pcaps/ids2017_benign_monday_00001_20170703140648.pcap
   - description: Benign traffic data from the CIC-IDS2017 dataset. Monday trace 3
+    trace_name: ids2017_benign_monday_00002
     trace_uri: benign_pcaps/ids2017_benign_monday_00002_20170703141228.pcap
   - description: Benign traffic data from the CIC-IDS2017 dataset. Monday trace 4
+    trace_name: ids2017_benign_monday_00003
     trace_uri: benign_pcaps/ids2017_benign_monday_00003_20170703141409.pcap
   - description: Benign traffic data from the CIC-IDS2017 dataset. Monday trace 5
+    trace_name: ids2017_benign_monday_00004
     trace_uri: benign_pcaps/ids2017_benign_monday_00004_20170703141423.pcap
   - description: Benign traffic data from the CIC-IDS2017 dataset. Monday trace 6
+    trace_name: ids2017_benign_monday_00005
     trace_uri: benign_pcaps/ids2017_benign_monday_00005_20170703141440.pcap
   - description: Benign traffic data from the CIC-IDS2017 dataset. Monday trace 7
+    trace_name: ids2017_benign_monday_00006
     trace_uri: benign_pcaps/ids2017_benign_monday_00006_20170703141453.pcap
   - description: Benign traffic data from the CIC-IDS2017 dataset. Monday trace 8
+    trace_name: ids2017_benign_monday_00007
     trace_uri: benign_pcaps/ids2017_benign_monday_00007_20170703141507.pcap
   - description: Benign traffic data from the CIC-IDS2017 dataset. Monday trace 9
+    trace_name: ids2017_benign_monday_00008
     trace_uri: benign_pcaps/ids2017_benign_monday_00008_20170703141521.pcap
   - description: Benign traffic data from the CIC-IDS2017 dataset. Monday trace 10
+    trace_name: ids2017_benign_monday_00009
     trace_uri: benign_pcaps/ids2017_benign_monday_00009_20170703141545.pcap
   - description: Benign traffic data from the CIC-IDS2017 dataset. Monday trace 11
+    trace_name: ids2017_benign_monday_00010
     trace_uri: benign_pcaps/ids2017_benign_monday_00010_20170703141557.pcap
   - description: Benign traffic data from the CIC-IDS2017 dataset. Monday trace 12
+    trace_name: ids2017_benign_monday_00011
     trace_uri: benign_pcaps/ids2017_benign_monday_00011_20170703141610.pcap
   - description: Benign traffic data from the CIC-IDS2017 dataset. Monday trace 13
+    trace_name: ids2017_benign_monday_00012
     trace_uri: benign_pcaps/ids2017_benign_monday_00012_20170703141623.pcap
   - description: Benign traffic data from the CIC-IDS2017 dataset. Monday trace 14
+    trace_name: ids2017_benign_monday_00013
     trace_uri: benign_pcaps/ids2017_benign_monday_00013_20170703141637.pcap
   - description: Benign traffic data from the CIC-IDS2017 dataset. Monday trace 15
+    trace_name: ids2017_benign_monday_00014
     trace_uri: benign_pcaps/ids2017_benign_monday_00014_20170703141650.pcap
   - description: Benign traffic data from the CIC-IDS2017 dataset. Monday trace 16
+    trace_name: ids2017_benign_monday_00015
     trace_uri: benign_pcaps/ids2017_benign_monday_00015_20170703141704.pcap
   - description: Benign traffic data from the CIC-IDS2017 dataset. Monday trace 17
+    trace_name: ids2017_benign_monday_00016
     trace_uri: benign_pcaps/ids2017_benign_monday_00016_20170703141719.pcap
   - description: Benign traffic data from the CIC-IDS2017 dataset. Monday trace 18
+    trace_name: ids2017_benign_monday_00017
     trace_uri: benign_pcaps/ids2017_benign_monday_00017_20170703141732.pcap
   - description: Benign traffic data from the CIC-IDS2017 dataset. Monday trace 19
+    trace_name: ids2017_benign_monday_00018
     trace_uri: benign_pcaps/ids2017_benign_monday_00018_20170703141745.pcap
   - description: Benign traffic data from the CIC-IDS2017 dataset. Monday trace 20
+    trace_name: ids2017_benign_monday_00019
     trace_uri: benign_pcaps/ids2017_benign_monday_00019_20170703141758.pcap
