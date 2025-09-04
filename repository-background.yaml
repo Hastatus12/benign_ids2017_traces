@@ -5,7 +5,7 @@ creation_date: "2017"
 version: 1.0
 traces:
   - description: Benign traffic data from the CIC-IDS2017 dataset. Monday trace 1
-    trace_name: ids2017_benign1_web_1
+    trace_name: ids2017_benign1_web_00000
     trace_uri: benign_pcaps/ids2017_benign_monday_00000_20170703135558.pcap
   - description: Benign traffic data from the CIC-IDS2017 dataset. Monday trace 2
     trace_name: ids2017_benign_monday_00001
