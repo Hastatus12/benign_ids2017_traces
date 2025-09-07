@@ -5,29 +5,53 @@ creation_date: "2017"
 version: 1.0
 traces:
   - description: Benign traffic data from the CIC-IDS2017 dataset. Monday trace 1
-    trace_name: ids2017_benign1_web_00000
+    trace_name: ids2017_benign1_monday_web_00000
     trace_uri: benign_pcaps/ids2017_benign_monday_00000_20170703135558.pcap
+    first_packet_ts: 1499082958.598308000
+    last_packet_ts: 1499083608.795457000
+    packets: 60000
   - description: Benign traffic data from the CIC-IDS2017 dataset. Monday trace 2
     trace_name: ids2017_benign_monday_00001
     trace_uri: benign_pcaps/ids2017_benign_monday_00001_20170703140648.pcap
+    first_packet_ts: 1499083608.795500000
+    last_packet_ts: 1499083948.609879000
+    packets: 60000
   - description: Benign traffic data from the CIC-IDS2017 dataset. Monday trace 3
     trace_name: ids2017_benign_monday_00002
     trace_uri: benign_pcaps/ids2017_benign_monday_00002_20170703141228.pcap
+    first_packet_ts: 1499083948.610002000
+    last_packet_ts: 1499084049.676858000
+    packets: 60000
   - description: Benign traffic data from the CIC-IDS2017 dataset. Monday trace 4
     trace_name: ids2017_benign_monday_00003
     trace_uri: benign_pcaps/ids2017_benign_monday_00003_20170703141409.pcap
+    first_packet_ts: 1499084049.676884000
+    last_packet_ts: 1499084063.661837000
+    packets: 60000
   - description: Benign traffic data from the CIC-IDS2017 dataset. Monday trace 5
     trace_name: ids2017_benign_monday_00004
     trace_uri: benign_pcaps/ids2017_benign_monday_00004_20170703141423.pcap
+    first_packet_ts: 1499084063.662067000
+    last_packet_ts: 1499084080.861640000
+    packets: 60000
   - description: Benign traffic data from the CIC-IDS2017 dataset. Monday trace 6
     trace_name: ids2017_benign_monday_00005
+    first_packet_ts: 1499084080.861674000
+    last_packet_ts: 1499084093.831178000
+    packets: 60000
     trace_uri: benign_pcaps/ids2017_benign_monday_00005_20170703141440.pcap
   - description: Benign traffic data from the CIC-IDS2017 dataset. Monday trace 7
     trace_name: ids2017_benign_monday_00006
+    first_packet_ts: 1499084093.831179000
+    last_packet_ts: 1499084107.149877000
+    packets: 60000
     trace_uri: benign_pcaps/ids2017_benign_monday_00006_20170703141453.pcap
   - description: Benign traffic data from the CIC-IDS2017 dataset. Monday trace 8
     trace_name: ids2017_benign_monday_00007
     trace_uri: benign_pcaps/ids2017_benign_monday_00007_20170703141507.pcap
+    first_packet_ts: 1499084107.149927000
+    last_packet_ts: 1499084121.923633000
+    packets: 60000
   - description: Benign traffic data from the CIC-IDS2017 dataset. Monday trace 9
     trace_name: ids2017_benign_monday_00008
     trace_uri: benign_pcaps/ids2017_benign_monday_00008_20170703141521.pcap
